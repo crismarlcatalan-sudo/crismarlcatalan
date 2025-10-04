@@ -1,0 +1,29 @@
+{
+  "updated": "2025-10-04T00:00:00Z",
+  "events": [
+    {
+      "time": "2025-10-04T13:30:00Z",
+      "currency": "USD",
+      "impact": "High",
+      "title": "US Non-Farm Payrolls (NFP)"
+    },
+    {
+      "time": "2025-10-05T14:00:00Z",
+      "currency": "USD",
+      "impact": "High",
+      "title": "US CPI Core MoM"
+    },
+    {
+      "time": "2025-10-06T10:00:00Z",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "ECB Press Conference"
+    },
+    {
+      "time": "2025-10-07T12:00:00Z",
+      "currency": "GBP",
+      "impact": "High",
+      "title": "UK GDP YoY"
+    }
+  ]
+}
